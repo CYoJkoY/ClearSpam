@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: ClearSpam
+Implementation-Version: 0.0.5
+Specification-Vendor:  
+Specification-Title: ClearSpam
+Implementation-Timestamp: 2025-06-21T22:22:40+0800
+Specification-Version: 1
+Implementation-Vendor:  
+
